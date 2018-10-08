@@ -1,5 +1,5 @@
-# meetup-02-react-16-NPM-create-your-own-library
-
+# Polynomial Regression using Tensorflow.js
+ 
 ## Requirements
 
 -   Node JS / NPM
